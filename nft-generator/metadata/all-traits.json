@@ -1,0 +1,218 @@
+[
+    {
+        "Background": "bg4",
+        "body": "body2",
+        "cap": "cap3",
+        "tokenId": 0
+    },
+    {
+        "Background": "bg2",
+        "body": "body3",
+        "cap": "cap3",
+        "tokenId": 1
+    },
+    {
+        "Background": "bg4",
+        "body": "body3",
+        "cap": "cap3",
+        "tokenId": 2
+    },
+    {
+        "Background": "bg3",
+        "body": "body2",
+        "cap": "cap2",
+        "tokenId": 3
+    },
+    {
+        "Background": "bg3",
+        "body": "body1",
+        "cap": "cap2",
+        "tokenId": 4
+    },
+    {
+        "Background": "bg3",
+        "body": "body1",
+        "cap": "cap3",
+        "tokenId": 5
+    },
+    {
+        "Background": "bg3",
+        "body": "body2",
+        "cap": "cap3",
+        "tokenId": 6
+    },
+    {
+        "Background": "bg1",
+        "body": "body3",
+        "cap": "cap2",
+        "tokenId": 7
+    },
+    {
+        "Background": "bg4",
+        "body": "body3",
+        "cap": "cap2",
+        "tokenId": 8
+    },
+    {
+        "Background": "bg4",
+        "body": "body2",
+        "cap": "cap2",
+        "tokenId": 9
+    },
+    {
+        "Background": "bg4",
+        "body": "body1",
+        "cap": "cap1",
+        "tokenId": 10
+    },
+    {
+        "Background": "bg1",
+        "body": "body2",
+        "cap": "cap1",
+        "tokenId": 11
+    },
+    {
+        "Background": "bg1",
+        "body": "body3",
+        "cap": "cap3",
+        "tokenId": 12
+    },
+    {
+        "Background": "bg2",
+        "body": "body2",
+        "cap": "cap1",
+        "tokenId": 13
+    },
+    {
+        "Background": "bg1",
+        "body": "body1",
+        "cap": "cap1",
+        "tokenId": 14
+    },
+    {
+        "Background": "bg4",
+        "body": "body2",
+        "cap": "cap1",
+        "tokenId": 15
+    },
+    {
+        "Background": "bg3",
+        "body": "body3",
+        "cap": "cap3",
+        "tokenId": 16
+    },
+    {
+        "Background": "bg2",
+        "body": "body1",
+        "cap": "cap2",
+        "tokenId": 17
+    },
+    {
+        "Background": "bg1",
+        "body": "body3",
+        "cap": "cap1",
+        "tokenId": 18
+    },
+    {
+        "Background": "bg2",
+        "body": "body3",
+        "cap": "cap1",
+        "tokenId": 19
+    },
+    {
+        "Background": "bg1",
+        "body": "body1",
+        "cap": "cap3",
+        "tokenId": 20
+    },
+    {
+        "Background": "bg1",
+        "body": "body1",
+        "cap": "cap2",
+        "tokenId": 21
+    },
+    {
+        "Background": "bg2",
+        "body": "body1",
+        "cap": "cap1",
+        "tokenId": 22
+    },
+    {
+        "Background": "bg3",
+        "body": "body3",
+        "cap": "cap1",
+        "tokenId": 23
+    },
+    {
+        "Background": "bg2",
+        "body": "body2",
+        "cap": "cap3",
+        "tokenId": 24
+    },
+    {
+        "Background": "bg4",
+        "body": "body1",
+        "cap": "cap2",
+        "tokenId": 25
+    },
+    {
+        "Background": "bg2",
+        "body": "body2",
+        "cap": "cap2",
+        "tokenId": 26
+    },
+    {
+        "Background": "bg4",
+        "body": "body3",
+        "cap": "cap1",
+        "tokenId": 27
+    },
+    {
+        "Background": "bg3",
+        "body": "body2",
+        "cap": "cap1",
+        "tokenId": 28
+    },
+    {
+        "Background": "bg2",
+        "body": "body1",
+        "cap": "cap3",
+        "tokenId": 29
+    },
+    {
+        "Background": "bg2",
+        "body": "body3",
+        "cap": "cap2",
+        "tokenId": 30
+    },
+    {
+        "Background": "bg4",
+        "body": "body1",
+        "cap": "cap3",
+        "tokenId": 31
+    },
+    {
+        "Background": "bg3",
+        "body": "body1",
+        "cap": "cap1",
+        "tokenId": 32
+    },
+    {
+        "Background": "bg3",
+        "body": "body3",
+        "cap": "cap2",
+        "tokenId": 33
+    },
+    {
+        "Background": "bg1",
+        "body": "body2",
+        "cap": "cap2",
+        "tokenId": 34
+    },
+    {
+        "Background": "bg1",
+        "body": "body2",
+        "cap": "cap3",
+        "tokenId": 35
+    }
+]

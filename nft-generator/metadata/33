@@ -1,0 +1,19 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE33.png",
+    "tokenId": 33,
+    "name": "ADD_PROJECT_NAME_HERE 33",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "bg3"
+        },
+        {
+            "trait_type": "body",
+            "value": "body3"
+        },
+        {
+            "trait_type": "cap",
+            "value": "cap2"
+        }
+    ]
+}
