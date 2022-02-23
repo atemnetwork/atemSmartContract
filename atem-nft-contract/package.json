@@ -5,7 +5,7 @@
     "dotenv": "^10.0.0",
     "openzeppelin-solidity": "4.3.1"
   },
-  "name": "snowglobe_contract",
+  "name": "atem_passport_contract",
   "version": "1.0.0",
   "main": "truffle-config.js",
   "directories": {
