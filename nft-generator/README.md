@@ -1,4 +1,4 @@
-## Test for Atem sample images
+
 
 ## About
 Python Notebook in Jupyter that will generate a series of unique images using a collection of layers.
