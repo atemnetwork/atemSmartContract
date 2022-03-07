@@ -16,11 +16,13 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
 
     uint256 public constant MAX_ELEMENTS = 5000;
     uint256 public constant PRICE = 9 * 10**16;
+    uint256 public constant MINIMUM_ETH_BALANCE = 3 * 10**17;
     uint256 public constant MAX_BY_MINT = 15;
     address public constant creatorAddress = 0xB784115f6e0d40F5f87739a83fe428BFddd4Ab55;
     
     string public baseTokenURI;
     bool private _pause;
+    mapping(address => bool) public whitelist;
 
     event JoinGang(uint256 indexed id);
     constructor(string memory baseURI) ERC721("AtemNftPassport", "ANP") {
@@ -50,17 +52,27 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
         require(_exists(tokenId), "ERC721Metadata: URI query for nonexistent token");
         return string(abi.encodePacked(super.tokenURI(tokenId), ".json"));
     }
-
-    function mint(address _to, uint256 _count) public payable saleIsOpen {
-        uint256 total = _totalSupply();
-        require(total + _count <= MAX_ELEMENTS, "Max limit");
-        require(total <= MAX_ELEMENTS, "Sale end");
-        require(_count <= MAX_BY_MINT, "Exceeds number");
-        require(msg.value >= price(_count), "Value below price");
-
-        for (uint256 i = 0; i < _count; i++) {
-            _mintAnElement(_to);
+    function addwhitelist(address _to) public onlyOwner {
+      whitelist[_to] = true;
+   }
+    function isMintable() public view returns (bool) {
+        address user = msg.sender;
+        uint256 user_ether_balance = user.balance;
+        if(whitelist[user] == true) {
+            return true;
         }
+        else if(user_ether_balance >= MINIMUM_ETH_BALANCE) {
+            return true;
+        }
+
+        return false;
+    }
+    function mint() public payable saleIsOpen {
+        uint256 total = _totalSupply();
+        require(total <= MAX_ELEMENTS, "Sale end");
+        require(isMintable(), "Not allowed to mint");
+        
+        _mintAnElement(msg.sender);
     }
     function _mintAnElement(address _to) private {
         uint id = _totalSupply();
