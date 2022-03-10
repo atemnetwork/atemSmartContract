@@ -23,6 +23,7 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
     string public baseTokenURI;
     bool private _pause;
     mapping(address => bool) public whitelist;
+    mapping(address => bool) public claimList;
 
     event JoinGang(uint256 indexed id);
     constructor(string memory baseURI) ERC721("AtemNftPassport", "ANP") {
@@ -54,10 +55,21 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
     }
     function addwhitelist(address _to) public onlyOwner {
       whitelist[_to] = true;
-   }
+    }
+    function hasAtemNft(address _to) public view returns (bool) {
+      if(balanceOf(_to) > 0) {
+          return true;
+      }
+      return false;
+    }
     function isMintable() public view returns (bool) {
+        if(claimList[msg.sender]) {
+            return false;
+        }
+
         address user = msg.sender;
         uint256 user_ether_balance = user.balance;
+        
         if(whitelist[user] == true) {
             return true;
         }
@@ -73,6 +85,7 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
         require(isMintable(), "Not allowed to mint");
         
         _mintAnElement(msg.sender);
+        claimList[msg.sender] = true;
     }
     function _mintAnElement(address _to) private {
         uint id = _totalSupply();
