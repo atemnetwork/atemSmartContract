@@ -9,7 +9,7 @@ const web3 = createAlchemyWeb3(API_URL);
 
 const contract = require("../build/contracts/AtemPassport.json");
 
-const contractAddress = "0xA52dB7EA27700924F3753D09804767815392a916";
+const contractAddress = "0xC4C6e0e6c91d4A29FEFD80a9aDbEe797DB3e860F";
 const nftContract = new web3.eth.Contract(contract, contractAddress);
 
 async function mintNFT() {
