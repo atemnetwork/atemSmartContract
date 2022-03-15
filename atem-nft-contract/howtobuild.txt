@@ -1,2 +1,7 @@
-truffle migrate --reset --network mainnet 
+--------mainnet---------------
+truffle migrate --reset --network mainnet
 truffle run verify AtemPassport --network mainnet
+
+--------rinkeby---------------
+truffle migrate --reset --network rinkeby
+truffle run verify AtemPassport --network rinkeby

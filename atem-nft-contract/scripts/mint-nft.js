@@ -7,12 +7,12 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
 const web3 = createAlchemyWeb3(API_URL);
 
-const contract = require("../build/contracts/abi.json");
+const contract = require("../build/contracts/AtemPassport.json");
 
-const contractAddress = "0xEfb80e4A75338d6606B2C5ac085d6F8FE9316598";
+const contractAddress = "0xA52dB7EA27700924F3753D09804767815392a916";
 const nftContract = new web3.eth.Contract(contract, contractAddress);
 
-async function mintNFT(tokenURI) {
+async function mintNFT() {
     const nonce = await web3.eth.getTransactionCount(PUBLIC_KEY, 'latest'); //get latest nonce
   
     //the transaction
@@ -22,7 +22,7 @@ async function mintNFT(tokenURI) {
       'nonce': nonce,
       'gas': 500000,
       'maxPriorityFeePerGas': 1999999987,
-      'data': nftContract.methods.mint(PUBLIC_KEY, tokenURI).encodeABI()
+      'data': nftContract.methods.mint().encodeABI()
     };
 
     const signPromise = web3.eth.accounts.signTransaction(tx, PRIVATE_KEY);
@@ -39,4 +39,4 @@ async function mintNFT(tokenURI) {
     });
   }
 
-  mintNFT("https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/1.png");
+  mintNFT();

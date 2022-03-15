@@ -51,18 +51,20 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
 
     function tokenURI(uint256 tokenId) public view virtual override returns (string memory) {
         require(_exists(tokenId), "ERC721Metadata: URI query for nonexistent token");
-        return string(abi.encodePacked(super.tokenURI(tokenId), ".json"));
+        return string(abi.encodePacked(super.tokenURI(tokenId), ""));
     }
-    function addwhitelist(address _to) public onlyOwner {
-      whitelist[_to] = true;
+    function addwhitelist(address _addr) public onlyOwner {
+      whitelist[_addr] = true;
     }
-    function hasAtemNft(address _to) public view returns (bool) {
-      if(balanceOf(_to) > 0) {
+    function hasAtemNft(address _addr) public view returns (bool) {
+      if(balanceOf(_addr) > 0) {
           return true;
       }
       return false;
     }
     function isMintable() public view returns (bool) {
+        require(!isPaused(), "paused by owner");
+
         if(claimList[msg.sender]) {
             return false;
         }
