@@ -19,7 +19,7 @@ contract AtemPassport is ERC721Enumerable, Ownable, ERC721Burnable {
     uint256 public constant PRICE = 0;
     uint256 public constant MINIMUM_ETH_BALANCE = 3 * 10**17;
     uint256 public constant MAX_BY_MINT = 15;
-    address public constant creatorAddress = 0x0bd8a10088773ACaa1a3F1a65fd547c8C8C3d65A;
+    address public constant creatorAddress = 0x2a99AE1d91654c4Ea571d44F60661cCA3AE22498;
     
     string public baseTokenURI;
     bool private _pause;

@@ -1161,7 +1161,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.6",
-  "updatedAt": "2022-03-14T21:43:15.174Z",
+  "updatedAt": "2022-03-15T19:18:56.420Z",
   "devdoc": {
     "details": "ERC721 Token that can be irreversibly burned (destroyed).",
     "kind": "dev",
