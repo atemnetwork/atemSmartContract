@@ -31,7 +31,7 @@ contract AtemRefund is Ownable {
     function burnAndRefund(uint256 tokenId) public payable {
         require(atemNFTV1.balanceOf(msg.sender) > 0, "no V1 NFT");
         require(!burnedList[tokenId], "already burned for this token id");
-        require(!whitelist[msg.sender], "already burned for this wallet");
+        require(whitelist[msg.sender], "not whitelist user");
         require(!_pause, "paused by owner");
         
         // burn a NFT first
@@ -39,7 +39,6 @@ contract AtemRefund is Ownable {
 
         _widthdraw(msg.sender, refundAmountPerUser);
         burnedList[tokenId] = true;
-        whitelist[msg.sender] = true;
         _burned_count = _burned_count + 1;
     }
     function _initwhitelist() private {
