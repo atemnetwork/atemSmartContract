@@ -1,7 +1,0 @@
---------mainnet---------------
-truffle migrate --reset --network mainnet
-truffle run verify AtemRefund --network mainnet
-
---------rinkeby---------------
-truffle migrate --reset --network rinkeby
-truffle run verify AtemRefund --network rinkeby
