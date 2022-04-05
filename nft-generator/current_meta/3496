@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3012.png",
+    "tokenId": 3496,
+    "name": "Atem NFT Passport - Crypto Moon 687",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Crypto Moon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Purple Scholar Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Brown Afro Hair with Loop Hair Accessories"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "No Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Sun Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Sun Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "Black Rock Leather Jacket"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "Moon Vision Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Brown Afro Hair with Loop Hair Accessories"
+        }
+    ]
+}
