@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3851.png",
-    "tokenId": 3102,
-    "name": "Atem NFT Passport - NFT Pandora 26",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "NFT Pandora"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Blue LED Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Black Afro Hair with Loop Hair Accessories"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Red ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Light Ninja Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Rock Leather Jacket"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Pandora Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Black Afro Hair with Loop Hair Accessories Back"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3851.png",
+    "tokenId": 3102,
+    "name": "Atem NFT Passport - NFT Pandora 26",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "NFT Pandora"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Blue LED Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Black Afro Hair with Loop Hair Accessories"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Red ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Light Ninja Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Black Rock Leather Jacket"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pandora Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Black Afro Hair with Loop Hair Accessories Back"
+        }
+    ]
 }

@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/126.png",
-    "tokenId": 4700,
-    "name": "Atem NFT Passport - Planet Elon 126",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Silver ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Light Spider Eyelash"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Purple ATEM T-shirt"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Elon Dark Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/126.png",
+    "tokenId": 4700,
+    "name": "Atem NFT Passport - Planet Elon 126",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Silver ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Light Spider Eyelash"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Purple ATEM T-shirt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Elon Dark Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

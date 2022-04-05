@@ -125,12 +125,12 @@ eye_cloth_files = {
     "Burgundy Fur Hoodie": "C_03_2",
     "Gold Gem Suit": "C_06_1",
     "Green Gem Suit": "C_06_2",
-    "Purple Fur Hoodie": "C_03_3",
+    "Green Fur Hoodie": "C_03_3",
     "Orange ATEM T-shirt": "C_05_3",
 }
 eye_skin_files = {
-    "Neverland Elf Skin": "S_13",
     "Neverland Unicorn Skin": "S_14",
+    "Neverland Elf Skin": "S_13",
     "Elon Dark Skin": "S_01",
     "Elon Beige Skin": "S_02",
     "Elon Bright Skin": "S_03",
@@ -234,14 +234,23 @@ def generate_image(item):
         # Create a new directory because it does not exist 
         os.makedirs(save_path)
         print("The new directory is created!")
+    if item["cloth"] == "Green Fur Hoodie"
+        file_name = "Green_Fur_Hoodie_" + file_name
     rgb_im.save(save_path + file_name)
     print("Saved ./new_images/%s" % file_name)
+
+    
 
     time4 = time.time()
     #print('time cost3', time4 - time3, 's')
 
 def generate_between(start, end):
+    l = []
     for x in range(start, end):
+        l.append(x)
+
+    def process(x):
+        print('file: ' + str(x))
         input_file = "current_meta/"+str(x)
         except_file = "except/"+str(x)
         try:
@@ -256,14 +265,13 @@ def generate_between(start, end):
                     generate_image(item)
         except:
             save_file(except_file, original)
+    
+    pool = ThreadPool(100)
+    pool.map(process, l)
+    pool.close()
+    pool.join()
 
 def main(args=None):
-    except_path = "./except/"
-    isExist = os.path.exists(except_path)
-    if not isExist:
-        # Create a new directory because it does not exist 
-        os.makedirs(except_path)
-        print("except directory is created!")
     timeStart = time.time()
     generate_between(0, 5000)
     timeEnd = time.time()

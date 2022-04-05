@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1715.png",
-    "tokenId": 208,
-    "name": "Atem NFT Passport - Web3 Mars 140",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Green Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Blue Wavy Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Colourful Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Dark Ninja Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Ocean Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Ocean Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Fur Dress"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Mars Capital Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Blue Wavy Hair"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1715.png",
+    "tokenId": 208,
+    "name": "Atem NFT Passport - Web3 Mars 140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Web3 Mars"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Green Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Blue Wavy Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Colourful Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Dark Ninja Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Ocean Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Ocean Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Black Fur Dress"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Mars Capital Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Blue Wavy Hair"
+        }
+    ]
 }

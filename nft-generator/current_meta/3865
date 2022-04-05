@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3079.png",
-    "tokenId": 3865,
-    "name": "Atem NFT Passport - DeFi Asteroids 4",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "DeFi Asteroids"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Patterned A Zone Helmet"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Lightning Drop"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Kaleidoscope Eyes Left"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Kaleidoscope Eyes Right"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Red ATEM Sport Top"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Asteroids Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Patterned A Zone Helmet"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3079.png",
+    "tokenId": 3865,
+    "name": "Atem NFT Passport - DeFi Asteroids 4",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DeFi Asteroids"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Patterned A Zone Helmet"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Lightning Drop"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Kaleidoscope Eyes Left"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Kaleidoscope Eyes Right"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Red ATEM Sport Top"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Asteroids Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Patterned A Zone Helmet"
+        }
+    ]
 }

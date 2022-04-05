@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4082.png",
-    "tokenId": 2712,
-    "name": "Atem NFT Passport - NFT Pandora 257",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "NFT Pandora"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Gold Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Gold ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Rock Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Kaleidoscope Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Kaleidoscope Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "White Rock Leather Jacket"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Pandora Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4082.png",
+    "tokenId": 2712,
+    "name": "Atem NFT Passport - NFT Pandora 257",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "NFT Pandora"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Gold Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Gold ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Rock Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "White Rock Leather Jacket"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Pandora Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }
