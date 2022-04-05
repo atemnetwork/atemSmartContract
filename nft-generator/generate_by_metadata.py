@@ -241,12 +241,7 @@ def generate_image(item):
     #print('time cost3', time4 - time3, 's')
 
 def generate_between(start, end):
-    l = []
     for x in range(start, end):
-        l.append(x)
-
-    def process(x):
-        print('file: ' + str(x))
         input_file = "current_meta/"+str(x)
         except_file = "except/"+str(x)
         try:
@@ -261,11 +256,6 @@ def generate_between(start, end):
                     generate_image(item)
         except:
             save_file(except_file, original)
-    
-    pool = ThreadPool(100)
-    pool.map(process, l)
-    pool.close()
-    pool.join()
 
 def main(args=None):
     except_path = "./except/"
@@ -275,7 +265,7 @@ def main(args=None):
         os.makedirs(except_path)
         print("except directory is created!")
     timeStart = time.time()
-    generate_between(0, 500)
+    generate_between(0, 5000)
     timeEnd = time.time()
     print('Total time spend: ' + str(timeEnd - timeStart))
 
