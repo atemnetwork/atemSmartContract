@@ -230,7 +230,7 @@ def generate_image(item):
 def generate_between(start, end):
     for x in range(start, end):
         input_file = "current_meta/"+str(x)
-        if os.path.isfile('current_meta/'+str(x)):
+        if os.path.isfile('current_meta/'+str(x)) & (not os.path.isfile('new_images/'+str(x)+".png")):
             original = read_file(input_file)
             metadata = json.loads(original)
             attributes = metadata["attributes"]
