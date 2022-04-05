@@ -229,11 +229,6 @@ def generate_image(item):
     rgb_im = com11.convert('RGB')
     file_name = str(item["tokenId"]) + ".png"
     save_path = "./new_images/"
-    isExist = os.path.exists(save_path)
-    if not isExist:
-        # Create a new directory because it does not exist 
-        os.makedirs(save_path)
-        print("The new directory is created!")
     if item["cloth"] == "Green Fur Hoodie":
         file_name = "Green_Fur_Hoodie_" + file_name
     rgb_im.save(save_path + file_name)
@@ -272,6 +267,16 @@ def generate_between(start, end):
     pool.join()
 
 def main(args=None):
+    _path = "./new_images/"
+    isExist = os.path.exists(_path)
+    if not isExist:
+        os.makedirs(_path)
+        print("new_images directory is created!")
+    _path = "./except/"
+    isExist = os.path.exists(_path)
+    if not isExist:
+        os.makedirs(_path)
+        print("except directory is created!")
     timeStart = time.time()
     generate_between(0, 5000)
     timeEnd = time.time()
