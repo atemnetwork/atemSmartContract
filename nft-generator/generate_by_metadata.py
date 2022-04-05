@@ -261,7 +261,7 @@ def generate_between(start, end):
         except:
             save_file(except_file, original)
     
-    pool = ThreadPool(100)
+    pool = ThreadPool(10)
     pool.map(process, l)
     pool.close()
     pool.join()
