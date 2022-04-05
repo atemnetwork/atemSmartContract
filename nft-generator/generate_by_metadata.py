@@ -243,7 +243,7 @@ def generate_between(start, end):
             continue
 
 def main(args=None):
-    generate_between(0, 5)
+    generate_between(0, 100)
 
 if __name__ == "__main__":
     main()
