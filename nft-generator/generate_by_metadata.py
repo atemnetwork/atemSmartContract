@@ -230,6 +230,7 @@ def generate_image(item):
 def generate_between(start, end):
     for x in range(start, end):
         input_file = "current_meta/"+str(x)
+        except_file = "except/"+str(x)
         if os.path.isfile('current_meta/'+str(x)) & (not os.path.isfile('new_images/'+str(x)+".png")):
             original = read_file(input_file)
             metadata = json.loads(original)
@@ -238,7 +239,10 @@ def generate_between(start, end):
             item["tokenId"] = metadata["tokenId"]
             for i in attributes:
                 item[i["trait_type"]] = i["value"]
-            generate_image(item)
+            try:
+                generate_image(item)
+            except:
+                save_file(except_file, original)
         else:
             continue
 
