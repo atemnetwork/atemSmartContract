@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4617.png",
+    "tokenId": 3378,
+    "name": "Atem NFT Passport - Blockchain Jupiter 42",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blockchain Jupiter"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Silver LED Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Pink Fringe Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Red Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "No Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "Orange ATEM T-shirt"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "AKA Blockchain Jupiter Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Pink Fringe Hair"
+        }
+    ]
+}

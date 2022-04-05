@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4075.png",
+    "tokenId": 3616,
+    "name": "Atem NFT Passport - NFT Pandora 250",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "NFT Pandora"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Grey Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Black Afro Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Gold Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Rock Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "Purple Fur Dress"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "Pandora Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Black Afro Hair"
+        }
+    ]
+}

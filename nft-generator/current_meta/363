@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1422.png",
+    "tokenId": 363,
+    "name": "Atem NFT Passport - Planet Elon 1422",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Silver LED Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Silver ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Lightning Drop"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "Red ATEM Sport Top"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "Elon Beige Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
+}

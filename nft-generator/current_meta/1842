@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3887.png",
+    "tokenId": 1842,
+    "name": "Atem NFT Passport - NFT Pandora 62",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "NFT Pandora"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Pink Fringe Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Gold Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Rock Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "White Rock Leather Jacket"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "Pandora Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Pink Fringe Hair"
+        }
+    ]
+}

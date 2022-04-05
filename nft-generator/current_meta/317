@@ -1,0 +1,55 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1053.png",
+    "tokenId": 317,
+    "name": "Atem NFT Passport - Planet Elon 1053",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Grey Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Blue Pearl Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Lightning Drop"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_cloth",
+            "value": "Black Rock Leather Jacket"
+        },
+        {
+            "trait_type": "eye_skin",
+            "value": "Elon Beige Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
+}
