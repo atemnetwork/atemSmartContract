@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4745.png",
-    "tokenId": 4370,
-    "name": "Atem NFT Passport - Blockchain Jupiter 170",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Blockchain Jupiter"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Pink Fringe Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Red Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Red ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Mars Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Mars Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Green Fur Hoodie"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "AKA Blockchain Jupiter Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Pink Fringe Hair"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4745.png",
+    "tokenId": 4370,
+    "name": "Atem NFT Passport - Blockchain Jupiter 170",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blockchain Jupiter"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Pink Fringe Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Red Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Red ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Silver Dragon Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Mars Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Mars Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Green Fur Hoodie"
+        },
+        {
+            "trait_type": "skin",
+            "value": "AKA Blockchain Jupiter Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Pink Fringe Hair"
+        }
+    ]
 }

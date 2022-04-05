@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1076.png",
-    "tokenId": 3181,
-    "name": "Atem NFT Passport - Planet Elon 1076",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Silver LED Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Gold Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Volcano Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Volcano Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Purple Gem Suit"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Elon Bright Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1076.png",
+    "tokenId": 3181,
+    "name": "Atem NFT Passport - Planet Elon 1076",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Silver LED Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Silver Dragon Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Purple Gem Suit"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Elon Bright Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

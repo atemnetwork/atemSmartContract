@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/385.png",
-    "tokenId": 1249,
-    "name": "Atem NFT Passport - Planet Elon 385",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Blue ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Colourful Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Blue Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Lightning Drop"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Volcano Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Volcano Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Purple Gem Suit"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Elon Beige Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/385.png",
+    "tokenId": 1249,
+    "name": "Atem NFT Passport - Planet Elon 385",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Blue ATEM Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Colourful Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Blue Pearl Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Lightning Drop"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Volcano Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Purple Gem Suit"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Elon Beige Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

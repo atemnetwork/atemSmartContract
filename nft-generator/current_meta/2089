@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1268.png",
-    "tokenId": 2089,
-    "name": "Atem NFT Passport - Planet Elon 1268",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Silver LED Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Gold Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Silver ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Voyager  Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Voyager  Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Black Rock Leather Jacket"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Elon Bright Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1268.png",
+    "tokenId": 2089,
+    "name": "Atem NFT Passport - Planet Elon 1268",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Silver LED Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Silver ATEM Watch Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Silver Dragon Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Voyager  Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Voyager  Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Black Rock Leather Jacket"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Elon Bright Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

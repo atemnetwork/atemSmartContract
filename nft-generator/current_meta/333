@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4969.png",
-    "tokenId": 333,
-    "name": "Atem NFT Passport - Neverland 19",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Neverland"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Curl Hair with Butterfly Hair Accessories"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Dark Spider Eyelash"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Loving Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Loving Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Red Fur Dress"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Neverland Elf Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Curl Hair with Butterfly Hair Accessories"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4969.png",
+    "tokenId": 333,
+    "name": "Atem NFT Passport - Neverland 19",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Neverland"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Curl Hair with Butterfly Hair Accessories"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "Pearl Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Dark Spider Eyelash"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Loving Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Loving Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Red Fur Dress"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Neverland Elf Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Curl Hair with Butterfly Hair Accessories"
+        }
+    ]
 }

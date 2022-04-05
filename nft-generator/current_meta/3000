@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2014.png",
-    "tokenId": 3000,
-    "name": "Atem NFT Passport - Web3 Mars 439",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Green Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Purple Fringe Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Rock Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Desert Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Desert Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Grey Fur Hoodie"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Mars Traveler Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Purple Fringe Hair"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2014.png",
+    "tokenId": 3000,
+    "name": "Atem NFT Passport - Web3 Mars 439",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Web3 Mars"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Green Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Purple Fringe Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Rock Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Desert Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Desert Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Grey Fur Hoodie"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Mars Traveler Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Purple Fringe Hair"
+        }
+    ]
 }

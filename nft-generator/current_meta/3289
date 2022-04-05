@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1817.png",
-    "tokenId": 3289,
-    "name": "Atem NFT Passport - Web3 Mars 242",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Green Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "No Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Star Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Star Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Black Fur Dress"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Mars Capital Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1817.png",
+    "tokenId": 3289,
+    "name": "Atem NFT Passport - Web3 Mars 242",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Web3 Mars"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Green Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "No Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "No Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Star Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Star Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Black Fur Dress"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Mars Capital Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

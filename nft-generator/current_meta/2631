@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/87.png",
-    "tokenId": 2631,
-    "name": "Atem NFT Passport - Planet Elon 87",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Grey Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Gold Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Microgravity Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Red ATEM Sport Top"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Elon Bright Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/87.png",
+    "tokenId": 2631,
+    "name": "Atem NFT Passport - Planet Elon 87",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planet Elon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Grey Sci-fi Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Silver Dragon Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Microgravity Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Red ATEM Sport Top"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Elon Bright Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

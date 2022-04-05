@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2551.png",
-    "tokenId": 123,
-    "name": "Atem NFT Passport - Crypto Moon 226",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Silver Curl Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Gold Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "White Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Dark Spider Eyelash"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Aurora Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Aurora Eyes"
-        },
-        {
-            "trait_type": "eye_cloth",
-            "value": "Gold Gem Suit"
-        },
-        {
-            "trait_type": "eye_skin",
-            "value": "Moon Crater Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Silver Curl Hair"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2551.png",
+    "tokenId": 123,
+    "name": "Atem NFT Passport - Crypto Moon 226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Crypto Moon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Silver Curl Hair"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "Gold Stud Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Chain Ear Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "White Pearl Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Dark Spider Eyelash"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Aurora Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Aurora Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Gold Gem Suit"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moon Crater Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Silver Curl Hair"
+        }
+    ]
 }
