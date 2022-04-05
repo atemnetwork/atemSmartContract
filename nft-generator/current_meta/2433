@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2658.png",
-    "tokenId": 2433,
-    "name": "Atem NFT Passport - Crypto Moon 333",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Purple Scholar Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "White Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Lightning Drop"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Gold Gem Suit"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Moon Crater Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2658.png",
+    "tokenId": 2433,
+    "name": "Atem NFT Passport - Crypto Moon 333",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Crypto Moon"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "Purple Scholar Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "White Pearl Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Lightning Drop"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Sun Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Sun Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Gold Gem Suit"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Moon Crater Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Bald"
+        }
+    ]
 }

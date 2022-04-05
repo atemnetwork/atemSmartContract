@@ -123,12 +123,12 @@ eye_cloth_files = {
     "Burgundy Fur Hoodie": "C_03_2",
     "Gold Gem Suit": "C_06_1",
     "Green Gem Suit": "C_06_2",
-    "Green Fur Hoodie": "C_03_3",
+    "Purple Fur Hoodie": "C_03_3",
     "Orange ATEM T-shirt": "C_05_3",
 }
 eye_skin_files = {
-    "Neverland Unicorn Skin": "S_13",
-    "Neverland Elf Skin": "S_14",
+    "Neverland Elf Skin": "S_13",
+    "Neverland Unicorn Skin": "S_14",
     "Elon Dark Skin": "S_01",
     "Elon Beige Skin": "S_02",
     "Elon Bright Skin": "S_03",

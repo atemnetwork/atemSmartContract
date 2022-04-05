@@ -1,55 +1,55 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3232.png",
-    "tokenId": 2886,
-    "name": "Atem NFT Passport - DeFi Asteroids 157",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "DeFi Asteroids"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Brown Patterned A Zone Helmet"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Light Ninja Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Kaleidoscope Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Kaleidoscope Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Purple ATEM T-shirt"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Asteroids Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Brown Patterned A Zone Helmet"
-        }
-    ]
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3232.png",
+    "tokenId": 2886,
+    "name": "Atem NFT Passport - DeFi Asteroids 157",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DeFi Asteroids"
+        },
+        {
+            "trait_type": "accessories_eyewear",
+            "value": "No Eyewear"
+        },
+        {
+            "trait_type": "hair_front",
+            "value": "Brown Patterned A Zone Helmet"
+        },
+        {
+            "trait_type": "accessories_earring",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "accessories_cuff",
+            "value": "Silver Star Nose Cuff"
+        },
+        {
+            "trait_type": "accessories_necklace",
+            "value": "No Necklace"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "Light Ninja Eyebrow"
+        },
+        {
+            "trait_type": "eye_left",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "eye_right",
+            "value": "Kaleidoscope Eyes"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "Purple ATEM T-shirt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "Asteroids Skin"
+        },
+        {
+            "trait_type": "hair_back",
+            "value": "Brown Patterned A Zone Helmet"
+        }
+    ]
 }
