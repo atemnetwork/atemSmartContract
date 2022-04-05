@@ -234,7 +234,7 @@ def generate_image(item):
         # Create a new directory because it does not exist 
         os.makedirs(save_path)
         print("The new directory is created!")
-    if item["cloth"] == "Green Fur Hoodie"
+    if item["cloth"] == "Green Fur Hoodie":
         file_name = "Green_Fur_Hoodie_" + file_name
     rgb_im.save(save_path + file_name)
     print("Saved ./new_images/%s" % file_name)
