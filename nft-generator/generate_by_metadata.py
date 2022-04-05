@@ -268,6 +268,12 @@ def generate_between(start, end):
     pool.join()
 
 def main(args=None):
+    except_path = "./except/"
+    isExist = os.path.exists(except_path)
+    if not isExist:
+        # Create a new directory because it does not exist 
+        os.makedirs(except_path)
+        print("except directory is created!")
     timeStart = time.time()
     generate_between(0, 500)
     timeEnd = time.time()
