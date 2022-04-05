@@ -257,7 +257,7 @@ def generate_between(start, end):
                 item["tokenId"] = metadata["tokenId"]
                 for i in attributes:
                     item[i["trait_type"]] = i["value"]
-                    generate_image(item)
+                generate_image(item)
         except:
             save_file(except_file, original)
     
