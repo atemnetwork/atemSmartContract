@@ -2,6 +2,8 @@ from PIL import Image
 import random
 import json
 import os
+import time
+from multiprocessing.dummy import Pool as ThreadPool
 
 background_files = {
     "Planet Elon": "B_01",
@@ -178,6 +180,7 @@ def save_file(path, content):
     file.close()
 
 def generate_image(item):
+    time1 =time.time()
     im1 = Image.open(f'./trait-layers/12_Background/{background_files[item["Background"]]}.png').convert('RGBA')
     im2 = Image.open(f'./trait-layers/11_Hair Back/{hair_back_files[item["hair_back"]]}.png').convert('RGBA')
     im3 = Image.open(f'./trait-layers/10_Skin/{eye_skin_files[item["skin"]]}.png').convert('RGBA')
@@ -191,6 +194,9 @@ def generate_image(item):
     im11 = Image.open(f'./trait-layers/02_Hair Front/{hair_front_files[item["hair_front"]]}.png').convert('RGBA')
     im12 = Image.open(f'./trait-layers/01_Accessories Eyewear/{accessories_eyewear_files[item["accessories_eyewear"]]}.png').convert('RGBA')
 
+    time2 = time.time()
+
+    #print('time cost1', time2 - time1, 's')
     #Create each composite
     im2 = im2.resize(im1.size)
     com1 = Image.alpha_composite(im1, im2)
@@ -216,6 +222,9 @@ def generate_image(item):
     im12 = im12.resize(com10.size)
     com11 = Image.alpha_composite(com10, im12)
 
+    time3 = time.time()
+    #print('time cost2', time3 - time2, 's')
+
     #Convert to RGB
     rgb_im = com11.convert('RGB')
     file_name = str(item["tokenId"]) + ".png"
@@ -227,27 +236,42 @@ def generate_image(item):
         print("The new directory is created!")
     rgb_im.save(save_path + file_name)
     print("Saved ./new_images/%s" % file_name)
+
+    time4 = time.time()
+    #print('time cost3', time4 - time3, 's')
+
 def generate_between(start, end):
+    l = []
     for x in range(start, end):
+        l.append(x)
+
+    def process(x):
+        print('file: ' + str(x))
         input_file = "current_meta/"+str(x)
         except_file = "except/"+str(x)
-        if os.path.isfile('current_meta/'+str(x)) & (not os.path.isfile('new_images/'+str(x)+".png")):
-            original = read_file(input_file)
-            metadata = json.loads(original)
-            attributes = metadata["attributes"]
-            item = {}
-            item["tokenId"] = metadata["tokenId"]
-            for i in attributes:
-                item[i["trait_type"]] = i["value"]
-            try:
-                generate_image(item)
-            except:
-                save_file(except_file, original)
-        else:
-            continue
+        try:
+            if os.path.isfile('current_meta/'+str(x)) & (not os.path.isfile('new_images/'+str(x)+".png")):
+                original = read_file(input_file)
+                metadata = json.loads(original)
+                attributes = metadata["attributes"]
+                item = {}
+                item["tokenId"] = metadata["tokenId"]
+                for i in attributes:
+                    item[i["trait_type"]] = i["value"]
+                    generate_image(item)
+        except:
+            save_file(except_file, original)
+    
+    pool = ThreadPool(100)
+    pool.map(process, l)
+    pool.close()
+    pool.join()
 
 def main(args=None):
-    generate_between(0, 5000)
+    timeStart = time.time()
+    generate_between(0, 500)
+    timeEnd = time.time()
+    print('Total time spend: ' + str(timeEnd - timeStart))
 
 if __name__ == "__main__":
     main()
