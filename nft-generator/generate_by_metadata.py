@@ -78,7 +78,7 @@ eyebrow_files = {
     "Dark Spider Eyelash": "EB_02_1",
     "Lightning Drop": "EB_06",
     "Light Ninja Eyebrow": "EB_04_1",
-    "Purple Fire Eyelash": "EB_05_1",
+    "Purple Fire Eyelash": "EB_05_2",
     "Rock Eyebrow": "EB_01",
     "Gold Dragon Eyebrow": "EB_03_2",
     "Silver Dragon Eyebrow": "EB_03_1",
@@ -116,7 +116,6 @@ eye_cloth_files = {
     "Red ATEM T-shirt": "C_05_2",
     "Black Fur Dress": "C_02_1",
     "Grey Fur Hoodie": "C_03_1",
-    "Purple Gem Suit": "C_06_3",
     "Black Rock Leather Jacket": "C_01_1",
     "Red ATEM Sport Top": "C_04_2",
     "Purple ATEM T-shirt": "C_05_1",
@@ -127,6 +126,7 @@ eye_cloth_files = {
     "Green Gem Suit": "C_06_2",
     "Green Fur Hoodie": "C_03_3",
     "Orange ATEM T-shirt": "C_05_3",
+    "Purple Gem Suit": "C_06_3",
 }
 eye_skin_files = {
     "Neverland Unicorn Skin": "S_14",
@@ -146,25 +146,53 @@ eye_skin_files = {
 }
 hair_back_files = {
     "Bald": "HB_00",
-    "Green Fringe Hair": "HB_01_4",
-    "Purple Fringe Hair": "HB_01_1",
-    "Blue Wavy Hair": "HB_04_1",
-    "Blue Circle Hair": "HB_07_4",
-    "Purple A Zone Helmet": "HB_08_3",
-    "Silver Fringe Hair": "HB_01_5",
-    "Silver Curl Hair": "HB_02_1",
-    "Brown Afro Hair with Loop Hair Accessories": "HB_06_3",
-    "Blue Curl Hair with Butterfly Hair Accessories": "HB_03_2",
-    "Brown Afro Hair": "HB_05_2",
-    "Brown Patterned A Zone Helmet": "HB_08_2",
-    "Blue Curl Hair": "HB_02_2",
-    "Silver Circle Hair": "HB_07_1",
     "Black Afro Hair": "HB_05_1",
-    "Green Curl Hair": "HB_02_3",
+    "Black Afro Hair with Loop Hair Accessories": "HB_06_1",
     "Blond Wavy Hair": "HB_04_2",
-    "Silver A Zone Helmet": "HB_08_1",
-    "Pink Fringe Hair": "HB_01_2",
+    "Blue Afro Hair with Loop Hair Accessories": "HB_06_2",
+    "Blue Circle Hair": "HB_07_4",
+    "Blue Curl Hair": "HB_02_2",
+    "Blue Curl Hair with Butterfly Hair Accessories": "HB_03_2",
+    "Blue Wavy Hair": "HB_04_1",
+    "Brown Afro Hair": "HB_05_2",
+    "Brown Afro Hair with Loop Hair Accessories": "HB_06_3",
+    "Brown Patterned A Zone Helmet": "HB_08_2",
+    "Burgundy Circle Hair": "HB_07_3",
     "Colourful Circle Hair": "HB_07_2",
+    "Green Curl Hair": "HB_02_3",
+    "Green Fringe Hair": "HB_01_4",
+    "Pink Fringe Hair": "HB_01_2",
+    "Purple A Zone Helmet": "HB_08_3",
+    "Purple Fringe Hair": "HB_01_1",
+    "Purple Patterned A Zone Helmet": "HB_08_4",
+    "Red Fringe Hair": "HB_01_3",
+    "Red Wavy Hair": "HB_04_3",
+    "Silver A Zone Helmet": "HB_08_1",
+    "Silver Circle Hair": "HB_07_1",
+    "Silver Curl Hair": "HB_02_1",
+    "Silver Curl Hair with Butterfly Hair Accessories": "HB_03_1",
+    "Silver Fringe Hair": "HB_01_5",
+
+    # "Bald": "HB_00",
+    # "Green Fringe Hair": "HB_01_4",
+    # "Purple Fringe Hair": "HB_01_1",
+    # "Blue Wavy Hair": "HB_04_2",
+    # "Blue Circle Hair": "HB_07_5",
+    # "Purple A Zone Helmet": "HB_08_3",
+    # "Silver Fringe Hair": "HB_02_1",
+    # "Silver Curl Hair": "HB_02_2",
+    # "Brown Afro Hair with Loop Hair Accessories": "HB_07_1",
+    # "Blue Curl Hair with Butterfly Hair Accessories": "HB_04_1",
+    # "Brown Afro Hair": "HB_05_2",
+    # "Brown Patterned A Zone Helmet": "HB_08_2",
+    # "Blue Curl Hair": "HB_02_3",
+    # "Silver Circle Hair": "HB_07_2",
+    # "Black Afro Hair": "HB_05_2",
+    # "Green Curl Hair": "HB_03_1",
+    # "Blond Wavy Hair": "HB_04_3",
+    # "Silver A Zone Helmet": "HB_08_1",
+    # "Pink Fringe Hair": "HB_01_2",
+    # "Colourful Circle Hair": "HB_07_3",
 }
 def read_file(path):
     if path == "-":
@@ -180,6 +208,11 @@ def save_file(path, content):
     file.close()
 
 def generate_image(item):
+    if item["cloth"] not in [ "Blue Fur Hoodie", "Purple Gem Suit", "Green Fur Hoodie"]:
+        return
+    if item["hair_back"] not in ["Blue Wavy Hair","Blue Circle Hair","Silver Fringe Hair","Silver Curl Hair","Brown Afro Hair with Loop Hair Accessories","Blue Curl Hair with Butterfly Hair Accessories","Blue Curl Hair","Silver Circle Hair","Black Afro Hair","Green Curl Hair","Blond Wavy Hair","Colourful Circle Hair"]:
+        return
+
     time1 =time.time()
     im1 = Image.open(f'./trait-layers/12_Background/{background_files[item["Background"]]}.png').convert('RGBA')
     im2 = Image.open(f'./trait-layers/11_Hair Back/{hair_back_files[item["hair_back"]]}.png').convert('RGBA')
@@ -231,6 +264,8 @@ def generate_image(item):
     save_path = "./new_images/"
     if item["cloth"] == "Green Fur Hoodie":
         file_name = "Green_Fur_Hoodie_" + file_name
+    if item["skin"] in ["Neverland Unicorn Skin","Neverland Elf Skin"]:
+        file_name = "Brown_Skin_" + file_name
     rgb_im.save(save_path + file_name)
     print("Saved ./new_images/%s" % file_name)
 
@@ -278,7 +313,7 @@ def main(args=None):
         os.makedirs(_path)
         print("except directory is created!")
     timeStart = time.time()
-    generate_between(0, 5000)
+    generate_between(0, 500)
     timeEnd = time.time()
     print('Total time spend: ' + str(timeEnd - timeStart))
 
