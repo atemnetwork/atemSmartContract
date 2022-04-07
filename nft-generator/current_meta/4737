@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1477.png",
-    "tokenId": 4737,
-    "name": "Atem NFT Passport - Planet Elon 1477",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Grey Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Blue ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Blue Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Rock Leather Jacket"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Elon Dark Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmVMtjsKAFrDbo3AFqgzMbXd1aMNcST3jcP5ogLnXPVWkW/4737.png", "tokenId": 4737, "name": "Atem NFT Passport - Planet Elon 1477", "attributes": [{"trait_type": "Background", "value": "Planet Elon"}, {"trait_type": "accessories_eyewear", "value": "Grey Sci-fi Eyewear"}, {"trait_type": "hair_front", "value": "Bald"}, {"trait_type": "accessories_earring", "value": "Blue ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "No Cuff"}, {"trait_type": "accessories_necklace", "value": "Blue Pearl Necklace"}, {"trait_type": "eyebrow", "value": "Silver Dragon Eyebrow"}, {"trait_type": "eye_left", "value": "Sun Eyes"}, {"trait_type": "eye_right", "value": "Sun Eyes"}, {"trait_type": "cloth", "value": "Black Rock Leather Jacket"}, {"trait_type": "skin", "value": "Elon Dark Skin"}, {"trait_type": "hair_back", "value": "Bald"}]}

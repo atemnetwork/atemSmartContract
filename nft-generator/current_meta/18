@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2376.png",
-    "tokenId": 18,
-    "name": "Atem NFT Passport - Crypto Moon 51",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Purple Scholar Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Brown Afro Hair with Loop Hair Accessories"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Gold Stud Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "White Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Lightning Drop"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Gold Gem Suit"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Moon Vision Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Brown Afro Hair with Loop Hair Accessories"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmPA24WbMDSFxSxbCr8UtQ7kvRoqdnNNn2WrXog942N6nc/18.png", "tokenId": 18, "name": "Atem NFT Passport - Crypto Moon 51", "attributes": [{"trait_type": "Background", "value": "Crypto Moon"}, {"trait_type": "accessories_eyewear", "value": "Purple Scholar Eyewear"}, {"trait_type": "hair_front", "value": "Brown Afro Hair with Loop Hair Accessories"}, {"trait_type": "accessories_earring", "value": "Gold Stud Earring"}, {"trait_type": "accessories_cuff", "value": "No Cuff"}, {"trait_type": "accessories_necklace", "value": "White Pearl Necklace"}, {"trait_type": "eyebrow", "value": "Lightning Drop"}, {"trait_type": "eye_left", "value": "Sun Eyes"}, {"trait_type": "eye_right", "value": "Sun Eyes"}, {"trait_type": "cloth", "value": "Gold Gem Suit"}, {"trait_type": "skin", "value": "Moon Vision Skin"}, {"trait_type": "hair_back", "value": "Brown Afro Hair with Loop Hair Accessories"}]}

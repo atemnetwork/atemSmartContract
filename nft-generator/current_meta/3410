@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmbWvjBeiDJHpMNnmVAZenemCi6PfKVmrq7Fbg7U1Y8WeS/3057.png",
-    "tokenId": 3410,
-    "name": "Atem NFT Passport - Crypto Moon 732",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Purple Scholar Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Colourful Circle Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "White Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Lightning Drop"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Inky Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Inky Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Rock Leather Jacket"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Moon Crater Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Colourful Circle Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/Qmej1nbVi9XNtx7o14mY82fCr8YYMDyACump2i4bG6dYoK/3410.png", "tokenId": 3410, "name": "Atem NFT Passport - Crypto Moon 732", "attributes": [{"trait_type": "Background", "value": "Crypto Moon"}, {"trait_type": "accessories_eyewear", "value": "Purple Scholar Eyewear"}, {"trait_type": "hair_front", "value": "Colourful Circle Hair"}, {"trait_type": "accessories_earring", "value": "No Earring"}, {"trait_type": "accessories_cuff", "value": "Silver Star Nose Cuff"}, {"trait_type": "accessories_necklace", "value": "White Pearl Necklace"}, {"trait_type": "eyebrow", "value": "Lightning Drop"}, {"trait_type": "eye_left", "value": "Inky Eyes"}, {"trait_type": "eye_right", "value": "Inky Eyes"}, {"trait_type": "cloth", "value": "Black Rock Leather Jacket"}, {"trait_type": "skin", "value": "Moon Crater Skin"}, {"trait_type": "hair_back", "value": "Colourful Circle Hair"}]}

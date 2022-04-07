@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2317.png",
-    "tokenId": 1222,
-    "name": "Atem NFT Passport - Web3 Mars 742",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Blue Circle Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Colourful ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Rock Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Desert Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Desert Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Grey Fur Hoodie"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Mars Capital Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Blue Circle Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmXBqGwo3iypC15aFgqevJAZvCU8hn76eEjdpJFrE3DjHz/1222.png", "tokenId": 1222, "name": "Atem NFT Passport - Web3 Mars 742", "attributes": [{"trait_type": "Background", "value": "Web3 Mars"}, {"trait_type": "accessories_eyewear", "value": "No Eyewear"}, {"trait_type": "hair_front", "value": "Blue Circle Hair"}, {"trait_type": "accessories_earring", "value": "Colourful ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "No Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "Rock Eyebrow"}, {"trait_type": "eye_left", "value": "Desert Eyes"}, {"trait_type": "eye_right", "value": "Desert Eyes"}, {"trait_type": "cloth", "value": "Grey Fur Hoodie"}, {"trait_type": "skin", "value": "Mars Capital Skin"}, {"trait_type": "hair_back", "value": "Blue Circle Hair"}]}

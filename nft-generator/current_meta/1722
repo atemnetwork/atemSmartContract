@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4252.png",
-    "tokenId": 1722,
-    "name": "Atem NFT Passport - Game Fi Neptune 52",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "GameFi Neptune"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Blond Wavy Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Blue ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "No Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Burgundy Fur Hoodie"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Neptune Passenger Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Blond Wavy Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmXBqGwo3iypC15aFgqevJAZvCU8hn76eEjdpJFrE3DjHz/1722.png", "tokenId": 1722, "name": "Atem NFT Passport - Game Fi Neptune 52", "attributes": [{"trait_type": "Background", "value": "GameFi Neptune"}, {"trait_type": "accessories_eyewear", "value": "No Eyewear"}, {"trait_type": "hair_front", "value": "Blond Wavy Hair"}, {"trait_type": "accessories_earring", "value": "Blue ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "No Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "No Eyebrow"}, {"trait_type": "eye_left", "value": "Sun Eyes"}, {"trait_type": "eye_right", "value": "Sun Eyes"}, {"trait_type": "cloth", "value": "Burgundy Fur Hoodie"}, {"trait_type": "skin", "value": "Neptune Passenger Skin"}, {"trait_type": "hair_back", "value": "Blond Wavy Hair"}]}

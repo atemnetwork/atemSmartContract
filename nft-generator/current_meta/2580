@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1741.png",
-    "tokenId": 2580,
-    "name": "Atem NFT Passport - Web3 Mars 166",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Green Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Blue Wavy Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Colourful ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Blue Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Rock Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Aurora Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Aurora Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Fur Dress"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Mars Traveler Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Blue Wavy Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmaXrgDpMp9A3bZw31FRHsKvakzzfW2ihXXMHwcTBiCypg/2580.png", "tokenId": 2580, "name": "Atem NFT Passport - Web3 Mars 166", "attributes": [{"trait_type": "Background", "value": "Web3 Mars"}, {"trait_type": "accessories_eyewear", "value": "Green Sci-fi Eyewear"}, {"trait_type": "hair_front", "value": "Blue Wavy Hair"}, {"trait_type": "accessories_earring", "value": "Colourful ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "Blue Star Nose Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "Rock Eyebrow"}, {"trait_type": "eye_left", "value": "Aurora Eyes"}, {"trait_type": "eye_right", "value": "Aurora Eyes"}, {"trait_type": "cloth", "value": "Black Fur Dress"}, {"trait_type": "skin", "value": "Mars Traveler Skin"}, {"trait_type": "hair_back", "value": "Blue Wavy Hair"}]}

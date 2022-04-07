@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmQ8nG1zvyPuPwcYncC19pUXPZ4dhbVWFhRRehix1f1UFr/1777.png",
-    "tokenId": 2246,
-    "name": "Atem NFT Passport - Web3 Mars 202",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Web3 Mars"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Black Afro Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Colourful ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Colourful Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Dark Ninja Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Ocean Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Ocean Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Grey Fur Hoodie"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Mars Capital Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Black Afro Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmaXrgDpMp9A3bZw31FRHsKvakzzfW2ihXXMHwcTBiCypg/2246.png", "tokenId": 2246, "name": "Atem NFT Passport - Web3 Mars 202", "attributes": [{"trait_type": "Background", "value": "Web3 Mars"}, {"trait_type": "accessories_eyewear", "value": "No Eyewear"}, {"trait_type": "hair_front", "value": "Black Afro Hair"}, {"trait_type": "accessories_earring", "value": "Colourful ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "Colourful Chain Ear Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "Dark Ninja Eyebrow"}, {"trait_type": "eye_left", "value": "Ocean Eyes"}, {"trait_type": "eye_right", "value": "Ocean Eyes"}, {"trait_type": "cloth", "value": "Grey Fur Hoodie"}, {"trait_type": "skin", "value": "Mars Capital Skin"}, {"trait_type": "hair_back", "value": "Black Afro Hair"}]}

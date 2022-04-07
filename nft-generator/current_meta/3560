@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/538.png",
-    "tokenId": 3560,
-    "name": "Atem NFT Passport - Planet Elon 538",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Grey Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Silver ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Light Spider Eyelash"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Sun Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Purple Gem Suit"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Elon Beige Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/Qmej1nbVi9XNtx7o14mY82fCr8YYMDyACump2i4bG6dYoK/3560.png", "tokenId": 3560, "name": "Atem NFT Passport - Planet Elon 538", "attributes": [{"trait_type": "Background", "value": "Planet Elon"}, {"trait_type": "accessories_eyewear", "value": "Grey Sci-fi Eyewear"}, {"trait_type": "hair_front", "value": "Bald"}, {"trait_type": "accessories_earring", "value": "No Earring"}, {"trait_type": "accessories_cuff", "value": "Silver Star Nose Cuff"}, {"trait_type": "accessories_necklace", "value": "Silver ATEM Watch Necklace"}, {"trait_type": "eyebrow", "value": "Light Spider Eyelash"}, {"trait_type": "eye_left", "value": "Sun Eyes"}, {"trait_type": "eye_right", "value": "Sun Eyes"}, {"trait_type": "cloth", "value": "Purple Gem Suit"}, {"trait_type": "skin", "value": "Elon Beige Skin"}, {"trait_type": "hair_back", "value": "Bald"}]}

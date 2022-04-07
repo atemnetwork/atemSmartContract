@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmXMwMVQYmRBTes3TkDNyH94izrUXHDUG9fb8yVfhs75oQ/4627.png",
-    "tokenId": 3647,
-    "name": "Atem NFT Passport - Blockchain Jupiter 52",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Blockchain Jupiter"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Yellow LED Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "No Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "Silver ATEM Watch Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "No Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Mars Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Mars Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Orange ATEM T-shirt"
-        },
-        {
-            "trait_type": "skin",
-            "value": "AKA Blockchain Jupiter Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/Qmej1nbVi9XNtx7o14mY82fCr8YYMDyACump2i4bG6dYoK/3647.png", "tokenId": 3647, "name": "Atem NFT Passport - Blockchain Jupiter 52", "attributes": [{"trait_type": "Background", "value": "Blockchain Jupiter"}, {"trait_type": "accessories_eyewear", "value": "Yellow LED Eyewear"}, {"trait_type": "hair_front", "value": "Bald"}, {"trait_type": "accessories_earring", "value": "No Earring"}, {"trait_type": "accessories_cuff", "value": "No Cuff"}, {"trait_type": "accessories_necklace", "value": "Silver ATEM Watch Necklace"}, {"trait_type": "eyebrow", "value": "No Eyebrow"}, {"trait_type": "eye_left", "value": "Mars Eyes"}, {"trait_type": "eye_right", "value": "Mars Eyes"}, {"trait_type": "cloth", "value": "Orange ATEM T-shirt"}, {"trait_type": "skin", "value": "AKA Blockchain Jupiter Skin"}, {"trait_type": "hair_back", "value": "Bald"}]}

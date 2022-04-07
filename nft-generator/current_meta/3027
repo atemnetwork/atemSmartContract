@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmSEX2a2AZZEn2vbfqNk6iKNxiXXgJY2NbLfGBdZty2xwc/524.png",
-    "tokenId": 3027,
-    "name": "Atem NFT Passport - Planet Elon 524",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Planet Elon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Grey Sci-fi Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "Blue ATEM Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Colourful Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Silver Dragon Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Voyager  Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Voyager  Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Purple Fur Dress"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Elon Beige Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/Qmej1nbVi9XNtx7o14mY82fCr8YYMDyACump2i4bG6dYoK/3027.png", "tokenId": 3027, "name": "Atem NFT Passport - Planet Elon 524", "attributes": [{"trait_type": "Background", "value": "Planet Elon"}, {"trait_type": "accessories_eyewear", "value": "Grey Sci-fi Eyewear"}, {"trait_type": "hair_front", "value": "Bald"}, {"trait_type": "accessories_earring", "value": "Blue ATEM Earring"}, {"trait_type": "accessories_cuff", "value": "Colourful Chain Ear Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "Silver Dragon Eyebrow"}, {"trait_type": "eye_left", "value": "Voyager  Eyes"}, {"trait_type": "eye_right", "value": "Voyager  Eyes"}, {"trait_type": "cloth", "value": "Purple Fur Dress"}, {"trait_type": "skin", "value": "Elon Beige Skin"}, {"trait_type": "hair_back", "value": "Bald"}]}

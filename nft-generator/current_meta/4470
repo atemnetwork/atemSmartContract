@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2811.png",
-    "tokenId": 4470,
-    "name": "Atem NFT Passport - Crypto Moon 486",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "No Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Silver Fringe Hair"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Chain Ear Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "White Pearl Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "Dark Spider Eyelash"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Star Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Star Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Black Rock Leather Jacket"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Moon Vision Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Silver Fringe Hair"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/QmVMtjsKAFrDbo3AFqgzMbXd1aMNcST3jcP5ogLnXPVWkW/4470.png", "tokenId": 4470, "name": "Atem NFT Passport - Crypto Moon 486", "attributes": [{"trait_type": "Background", "value": "Crypto Moon"}, {"trait_type": "accessories_eyewear", "value": "No Eyewear"}, {"trait_type": "hair_front", "value": "Silver Fringe Hair"}, {"trait_type": "accessories_earring", "value": "No Earring"}, {"trait_type": "accessories_cuff", "value": "Silver Chain Ear Cuff"}, {"trait_type": "accessories_necklace", "value": "White Pearl Necklace"}, {"trait_type": "eyebrow", "value": "Dark Spider Eyelash"}, {"trait_type": "eye_left", "value": "Star Eyes"}, {"trait_type": "eye_right", "value": "Star Eyes"}, {"trait_type": "cloth", "value": "Black Rock Leather Jacket"}, {"trait_type": "skin", "value": "Moon Vision Skin"}, {"trait_type": "hair_back", "value": "Silver Fringe Hair"}]}

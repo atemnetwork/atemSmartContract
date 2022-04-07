@@ -1,55 +1,1 @@
-{
-    "image": "https://gateway.pinata.cloud/ipfs/QmT8KJZt8d5xikcxMUFTvQk87P23CUrJ1qQ3KGeVLiFScC/2327.png",
-    "tokenId": 3403,
-    "name": "Atem NFT Passport - Crypto Moon 2",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Crypto Moon"
-        },
-        {
-            "trait_type": "accessories_eyewear",
-            "value": "Purple Scholar Eyewear"
-        },
-        {
-            "trait_type": "hair_front",
-            "value": "Bald"
-        },
-        {
-            "trait_type": "accessories_earring",
-            "value": "No Earring"
-        },
-        {
-            "trait_type": "accessories_cuff",
-            "value": "Silver Star Nose Cuff"
-        },
-        {
-            "trait_type": "accessories_necklace",
-            "value": "No Necklace"
-        },
-        {
-            "trait_type": "eyebrow",
-            "value": "No Eyebrow"
-        },
-        {
-            "trait_type": "eye_left",
-            "value": "Inky Eyes"
-        },
-        {
-            "trait_type": "eye_right",
-            "value": "Inky Eyes"
-        },
-        {
-            "trait_type": "cloth",
-            "value": "Gold Gem Suit"
-        },
-        {
-            "trait_type": "skin",
-            "value": "Moon Crater Skin"
-        },
-        {
-            "trait_type": "hair_back",
-            "value": "Bald"
-        }
-    ]
-}
+{"image": "https://gateway.pinata.cloud/ipfs/Qmej1nbVi9XNtx7o14mY82fCr8YYMDyACump2i4bG6dYoK/3403.png", "tokenId": 3403, "name": "Atem NFT Passport - Crypto Moon 2", "attributes": [{"trait_type": "Background", "value": "Crypto Moon"}, {"trait_type": "accessories_eyewear", "value": "Purple Scholar Eyewear"}, {"trait_type": "hair_front", "value": "Bald"}, {"trait_type": "accessories_earring", "value": "No Earring"}, {"trait_type": "accessories_cuff", "value": "Silver Star Nose Cuff"}, {"trait_type": "accessories_necklace", "value": "No Necklace"}, {"trait_type": "eyebrow", "value": "No Eyebrow"}, {"trait_type": "eye_left", "value": "Inky Eyes"}, {"trait_type": "eye_right", "value": "Inky Eyes"}, {"trait_type": "cloth", "value": "Gold Gem Suit"}, {"trait_type": "skin", "value": "Moon Crater Skin"}, {"trait_type": "hair_back", "value": "Bald"}]}
